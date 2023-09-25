@@ -520,6 +520,7 @@ select[multiple] {
     color: var(--button-fg);
     cursor: pointer;
     transition: background 0.15s;
+    float: right;
 }
 
 a.button {
